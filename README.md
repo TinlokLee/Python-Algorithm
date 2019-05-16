@@ -1,5 +1,6 @@
-# Python-Algorithm
+### Python-Algorithm
 ### 机器学习算法总结
+
 
 1. K-Means 
     聚类算法，把n的对象根据属性分为k个（k<n）
