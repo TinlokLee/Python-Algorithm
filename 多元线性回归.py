@@ -8,6 +8,7 @@
 '''
 import numpy as np
 
+
 def linearRegression(data_X, data_Y, learningRate, loopNum):
     """
     W的shape取决于特征个数，而x的行是样本个数，x的列是特征值个数
